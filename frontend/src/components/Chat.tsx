@@ -17,7 +17,7 @@ const Chat = ({ message, lastChat }: ChatProps) => {
           message.sender === "Bot" && "text-primary"
         }`}
       >
-        {message.sender === "User" ? "You" : "TripMate"}
+        {message.sender === "User" ? "You" : "AURA"}
       </div>
       <div
         className={`chat-bubble flex flex-col rounded-box md:text-lg ${

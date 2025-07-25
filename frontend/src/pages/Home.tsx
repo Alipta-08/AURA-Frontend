@@ -77,8 +77,8 @@ const Home = () => {
           {
             sender: "Bot",
             message:
-              "Hey there, I am TripMate - your all in one travel solution. How may I help you today?",
-          },
+              "Hey there, I am AURA - your Requisition Assistant. Would you like to submit a requisition today?",
+          }, 
         ]);
       }
 

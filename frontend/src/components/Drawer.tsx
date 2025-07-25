@@ -65,7 +65,7 @@ const Drawer = () => {
         ></label>
         <div className="menu bg-base-300 text-base-content min-h-full w-64 p-4 gap-3">
           <Link to="/" className="m-2 btn btn-ghost text-xl rounded-box">
-            TripMate
+            AURA 
           </Link>
           {!isAuthenticated ? (
             <button

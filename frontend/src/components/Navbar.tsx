@@ -55,7 +55,7 @@ const Navbar = () => {
             to="/"
             className="m-2 btn btn-ghost text-xl rounded-box transition-all duration-300 hover:scale-105"
           >
-            TripMate
+            AURA
           </Link>
         </div>
         <div className="flex-none">
